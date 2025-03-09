@@ -32,7 +32,9 @@ Libaries
     spring-test: 스프링통합 테스트지원
 ```
 
-
+### References
+- Spring Boot Refernces: [link](https://docs.spring.io/spring-boot/)
+- ThymeLeaf References: [link](https://www.thymeleaf.org/documentation.html)
 
 ### Setup
 Add above information to link: [Spring initializr](https://start.spring.io/) then download sample package
