@@ -1,24 +1,19 @@
 # springBasic_Java
-Creating demo spring project based on IntelliJ/Gradle 
+![Java11](http://img.shields.io/badge/java-11-blue.svg)![Spring](http://img.shields.io/badge/spring-boot-brightgreen.svg)![Gradle](http://img.shields.io/badge/gradle-7.6.1-blue.svg)
 
-### Environment
-- Java 11 
-- IDE: IntelliJ
-- Project
-1) Gradle Project
-2) Spring Boot: 2.3.x
-3) Language: JAVA 11
-4) Packaging: Jar
-- Project MetatData
-1) Group: com.example
-2) Artifact: sample
-3) Name: sample
-4) Description: Demo project for Spring Boot
-5) Package: com.example.sample
-6) Dependency: 
-   a. springWeb 
-   b. Thymeleaf
+```java
+Environment
+Java 11 / IDE: IntelliJ / Gradle Project
+
+Project MetatData
+- Group: com.example
+- Artifact: sample
+- Name: sample
+- Description: Demo project for Spring Boot
+- Package: com.example.sample
+- Dependency: Spring Web / ThymeLeaf
+```
 
 ### Setup
-Add above information from [Spring initializr](https://start.spring.io/)
+Add above information to [Spring initializr](https://start.spring.io/) & download sample package
 
