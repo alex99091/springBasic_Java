@@ -1,14 +1,16 @@
 package example.test.repository;
 
 import example.test.domain.Member;
+import org.springframework.jdbc.datasource.DataSourceUtils;
 
 import javax.sql.DataSource;
 import java.sql.*;
 import java.util.List;
 import java.util.Optional;
 
-public class JdbcMemberRepository implements MemberRepository {
+public class JdbcMemberRepository {
 
+    /*
     private final DataSource dataSource;
 
     public JdbcMemberRepository(DataSource dataSource) {
@@ -92,4 +94,6 @@ public class JdbcMemberRepository implements MemberRepository {
     public void clearStore() {
 
     }
+
+     */
 }
