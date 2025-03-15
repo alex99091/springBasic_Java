@@ -1,11 +1,7 @@
 package example.test.service;
 
 import example.test.domain.Member;
-import example.test.domain.MemoryMemberRepository;
 import example.test.repository.MemberRepository;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Component;
-import org.springframework.stereotype.Service;
 
 import java.util.List;
 import java.util.Optional;

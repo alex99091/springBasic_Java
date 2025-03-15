@@ -1,9 +1,6 @@
-package example.test.domain;
+package example.test.repository;
 
-import example.test.repository.MemberRepository;
 import example.test.domain.Member;
-import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.stereotype.Repository;
 
 import java.util.*;
 

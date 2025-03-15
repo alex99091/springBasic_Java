@@ -1,11 +1,10 @@
 package example.test.service;
 
 import example.test.domain.Member;
-import example.test.domain.MemoryMemberRepository;
+import example.test.repository.MemoryMemberRepository;
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.AfterEach;
 import org.junit.jupiter.api.Test;
-import example.test.service.MemberService;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
 import static org.assertj.core.api.Fail.fail;
