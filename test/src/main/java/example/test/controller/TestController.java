@@ -10,7 +10,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 @Controller
-public class testController {
+public class TestController {
 
     @GetMapping("test")
     public String test(Model model) {
